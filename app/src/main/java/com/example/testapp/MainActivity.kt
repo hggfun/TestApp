@@ -185,7 +185,7 @@ fun OverflowingInnerCardsExample() {
         ) {
             Image(
                 painter = painterResource(id = R.drawable.taxi_background),
-                contentDescription = "Taxi Background",
+                contentDescription = "Background Taxi",
                 contentScale = ContentScale.Crop,
                 modifier = Modifier.fillMaxSize()
             )
